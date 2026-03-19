@@ -2,13 +2,13 @@
 
 This repository serves as a hub for supplementary materials related to the paper *A Swarm Algorithm for Following Formations using Crazyflie Drones*. It includes the prototypical implementation in our NetLogo simulation.
 
-Additionally, proof-of-concept videos can be accessed via the following [YouTube playlist](https://youtube.com/playlist?list=PLOioj0ziLeDCcTm4_PvFFqmqayofMnhlx&si=q-vcLgW_VK_ztenD).
+Additionally, proof-of-concept videos can be accessed via the following [YouTube playlist]().
 
 ---
 
 ## Video Links
 
-All videos can be accessed on the [YouTube playlist](https://youtube.com/playlist?list=PLOioj0ziLeDCcTm4_PvFFqmqayofMnhlx&si=q-vcLgW_VK_ztenD).
+All videos can be accessed on the [YouTube playlist]().
 
 ### Proof of Concepts Videos
 
