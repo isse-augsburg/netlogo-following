@@ -1,22 +1,25 @@
-# A Swarm Algorithm for Following Formations using Crazyflie Drones
+# A Swarm Algorithm for Following Formations Applied to Crazyflie Drones
 
 This repository serves as a hub for supplementary materials related to the paper *A Swarm Algorithm for Following Formations using Crazyflie Drones*. It includes the prototypical implementation in our NetLogo simulation.
 
-Additionally, proof-of-concept videos can be accessed via the following [YouTube playlist]().
+Additionally, proof-of-concept videos can be accessed via the following [YouTube playlist](https://youtube.com/playlist?list=PLOioj0ziLeDDWsdMWDomqhLVIPnUIxff1&si=z1btr_j2ulBqOnFh).
 
 ---
 
 ## Video Links
 
-All videos can be accessed on the [YouTube playlist]().
+All videos can be accessed on the [YouTube playlist](https://youtube.com/playlist?list=PLOioj0ziLeDDWsdMWDomqhLVIPnUIxff1&si=z1btr_j2ulBqOnFh).
 
 ### Proof of Concepts Videos
 
 - **Following Algorithm as Swarm Behavior - Netlogo Prototype**  
         Following algorithm demonstrated in NetLogo simulation environment. Key Features: Initialization, Agent integration, agent removal. 
+        [Following Netlogo Video](https://youtu.be/HiHvRxFPpUU)
+
 
 - **Following Algorithm as Swarm Behavior - Crazyflie realization**  
     Real World realization of our Following Algoriothm using Crazyflie Drones
+    [Following Crazyflie Video](https://youtu.be/-fZLJLzqe-I)
 
 
 
