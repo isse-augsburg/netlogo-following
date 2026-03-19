@@ -1,6 +1,4 @@
-# Protease2-Following
-
-**Headline:** A Swarm Algorithm for Following Formations using Crazyflie Drones
+# A Swarm Algorithm for Following Formations using Crazyflie Drones
 
 This repository serves as a hub for supplementary materials related to the paper *A Swarm Algorithm for Following Formations using Crazyflie Drones*. It includes the prototypical implementation in our NetLogo simulation.
 
@@ -15,8 +13,7 @@ All videos can be accessed on the [YouTube playlist](https://youtube.com/playlis
 ### Proof of Concepts Videos
 
 - **Following Algorithm as Swarm Behavior - Netlogo Prototype**  
-        Following algorithm demonstrated in NetLogo simulation environment. Key Features: Initialization, Agent integration, agent removal.  
-        ![Following Algorithm Video](2026-03-19_17-10-21.mp4)
+        Following algorithm demonstrated in NetLogo simulation environment. Key Features: Initialization, Agent integration, agent removal. 
 
 - **Following Algorithm as Swarm Behavior - Crazyflie realization**  
     Real World realization of our Following Algoriothm using Crazyflie Drones
